@@ -1,4 +1,4 @@
-[company logo ](https://drive.google.com/drive/folders/1DXQkCCO2qRbgxNadsOr5avQ8gp5JurWq?usp=sharing)
+[company logo ](  )
 
 # Lexica
 
@@ -15,7 +15,7 @@ Free. No ads. No accounts. No data collected. Lexica never connects to the inter
 
 - **Catch letters.** Tiles fall into the draw pool. Touch or click a tile to freeze it, then drag it onto the board. Tiles you don't want can be dragged back to the pool, and they keep falling.
 - **Build words.** The board has 5 rows of 8 cells. A tile locks to the row it was first placed in. You can reorder tiles within a row by dragging one onto another to swap them. Drop a tile on the discard area to send it back to the pool, where it can later be placed in any row.
-- **Submit a row.** A word is a run of 2 or more neighbouring tiles. If the word is in the dictionary it scores and the row clears. Longer words are worth more, thanks to a word-length bonus that starts at 4 letters (10) and rises through 5, 6 and 7 letters (20, 30, 40) to 8 letters (50).
+- **Submit a row.** A word is a run of 2 or more neighboring tiles. If the word is in the dictionary it scores and the row clears. Longer words are worth more, thanks to a word-length bonus that starts at 4 letters (10) and rises through 5, 6 and 7 letters (20, 30, 40) to 8 letters (50).
 - **Pick a theme.** Before you play, choose a theme: Animals, Fashion, Food, Games, Music or Tech. Words from the current theme's bonus list score **5x**, so spelling *seahorse* in an Animals game is worth far more than an ordinary word.
 - **Beat the clock.** A standard game is two 5-minute rounds followed by a 2-minute **Bonus Round**, where letters come from a fixed pool of 60 tiles. Your score carries through all three rounds.
 
