@@ -16,6 +16,8 @@ Free. No ads. No accounts. No data collected. Lexica never connects to the inter
 
 ## How to play
 
+![Lexica Gameplay](gameplay-standard-git.png)
+
 - **Catch letters.** Tiles fall into the draw pool. Touch or click a tile to freeze it, then drag it onto the board. Tiles you don't want can be dragged back to the pool, and they keep falling.
 - **Build words.** The board has 5 rows of 8 cells. A tile locks to the row it was first placed in. You can reorder tiles within a row by dragging one onto another to swap them. Drop a tile on the discard area to send it back to the pool, where it can later be placed in any row.
 - **Submit a row.** A word is a run of 2 or more neighboring tiles. If the word is in the dictionary it scores and the row clears. Longer words are worth more, thanks to a word-length bonus that starts at 4 letters (10) and rises through 5, 6 and 7 letters (20, 30, 40) to 8 letters (50).
