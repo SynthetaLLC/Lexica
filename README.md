@@ -7,7 +7,8 @@
 Free. No ads. No accounts. No data collected. Lexica never connects to the internet.
 
 > **Get it:** [Google Play](PLAY-STORE-LINK-HERE)
-> **Privacy policy:** [privacy-policy.html](PRIVACY-POLICY-URL-HERE)
+> **Privacy policy:** [privacy-policy.html](**https://synthetallc.github.io/privacy-policy/privacy-policy.html
+)
 
 ---
 
