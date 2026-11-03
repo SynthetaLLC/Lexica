@@ -11,6 +11,9 @@ Free. No ads. No accounts. No data collected. Lexica never connects to the inter
 
 ---
 
+![Lexica Menu](logov03-git.jpg)
+
+
 ## How to play
 
 - **Catch letters.** Tiles fall into the draw pool. Touch or click a tile to freeze it, then drag it onto the board. Tiles you don't want can be dragged back to the pool, and they keep falling.
