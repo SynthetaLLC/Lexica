@@ -1,4 +1,4 @@
-[company logo ](  )
+![Company Logo](logov03-git.jpg)
 
 # Lexica
 
