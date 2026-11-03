@@ -11,7 +11,7 @@ Free. No ads. No accounts. No data collected. Lexica never connects to the inter
 
 ---
 
-![Lexica Menu](logov03-git.jpg)
+![Lexica Menu](lexica-menu-git.png)
 
 
 ## How to play
