@@ -78,5 +78,7 @@ Built with Unity.
 ## Contact
 
 Questions or feedback: support@syntheta.ai
+
 Find our community! https://discord.gg/pyrCwQS3k
+
 Lexica is published by Syntheta.ai LLC. All rights reserved.
