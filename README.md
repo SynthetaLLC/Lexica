@@ -6,9 +6,10 @@
 
 Free. No ads. No accounts. No data collected. Lexica never connects to the internet.
 
-> **Get it:** [Google Play](PLAY-STORE-LINK-HERE)
-> **Privacy policy:** [privacy-policy.html](**https://synthetallc.github.io/privacy-policy/privacy-policy.html
-)
+> **Get it:** Coming soon to Google Play  
+> **Privacy policy:** [Read it here](https://synthetallc.github.io/Lexica/privacy-policy.html)  
+> **Terms of service:** [Read them here](https://synthetallc.github.io/Lexica/terms.html)  
+> **Community:** [Join us on Discord](https://discord.gg/pyrCwQS3k)
 
 ---
 
@@ -68,7 +69,7 @@ Lexica collects, shares and sells nothing.
 - No access to your location, contacts, camera, microphone, photos or files.
 - High scores and initials are stored only on your device and are deleted when you uninstall.
 
-Read the full [privacy policy](PRIVACY-POLICY-URL-HERE).
+Read the full [privacy policy](https://synthetallc.github.io/Lexica/privacy-policy.html) and [terms of service](https://synthetallc.github.io/Lexica/terms.html).
 
 ---
 
@@ -83,8 +84,8 @@ Built with Unity.
 
 ## Contact
 
-Questions or feedback: support@syntheta.ai
+Questions or feedback: [support@syntheta.ai](mailto:support@syntheta.ai)
 
-Find our community! https://discord.gg/pyrCwQS3k
+Find our community on [Discord](https://discord.gg/pyrCwQS3k).
 
 Lexica is published by Syntheta.ai LLC. All rights reserved.
