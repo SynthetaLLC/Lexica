@@ -9,7 +9,7 @@ Free. No ads. No accounts. No data collected. Lexica never connects to the inter
 > **Get it:** Coming soon to Google Play  
 > **Privacy policy:** [Read it here](https://synthetallc.github.io/Lexica/privacy-policy.html)  
 > **Terms of service:** [Read them here](https://synthetallc.github.io/Lexica/terms.html)  
-> **Community:** [Join us on Discord](https://discord.gg/pyrCwQS3k)
+> **Community:** [Join us on Discord](https://discord.gg/xj45Ak4peX)
 
 ---
 
@@ -86,6 +86,6 @@ Built with Unity.
 
 Questions or feedback: [support@syntheta.ai](mailto:support@syntheta.ai)
 
-Find our community on [Discord](https://discord.gg/pyrCwQS3k).
+Find our community on [Discord](https://discord.gg/xj45Ak4peX).
 
 Lexica is published by Syntheta.ai LLC. All rights reserved.
