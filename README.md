@@ -88,4 +88,4 @@ Questions or feedback: [support@syntheta.ai](mailto:support@syntheta.ai)
 
 Find our community on [Discord](https://discord.gg/xj45Ak4peX).
 
-Lexica is published by Syntheta.ai LLC. All rights reserved.
+© 2026 Syntheta.ai LLC. All rights reserved.
